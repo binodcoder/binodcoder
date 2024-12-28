@@ -5,8 +5,8 @@
 - <b>Data Structures and Algorithms Practice (Apna College)</b>
   - [Praciting DS & Algos in Java](https://github.com/binodcoder/core_java)
 - <b>Full Stack Web App (Thymeleaf, Spring Boot, MySQL)</b>
-  - [Job Portal Application](https://github.com/binodcoder/7cs106_merokaam_web) <b><i>(Potentially NSFW)</b></i>
-  - [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api) <b><i>(Potentially NSFW)</b></i>
+  - [Job Portal Application](https://github.com/binodcoder/7cs106_merokaam_web) 
+  - [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api) 
 - <b>React</b>
   - [Note Keeper App](https://github.com/binodcoder/keeper-app)
   - [Manpower App](https://github.com/binodcoder/7CC005_react_merokam)
