@@ -6,14 +6,15 @@
   - [Praciting DS & Algos in Java](https://github.com/binodcoder/core_java)
 - <b>Full Stack Web App (Thymeleaf, Spring Boot, MySQL)</b>
   - [Job Portal Application](https://github.com/binodcoder/7cs106_merokaam_web) <b><i>(Potentially NSFW)</b></i>
+  - [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api) <b><i>(Potentially NSFW)</b></i>
 - <b>React</b>
   - [Note Keeper App](https://github.com/binodcoder/keeper-app)
   - [Manpower App](https://github.com/binodcoder/7CC005_react_merokam)
 - <b>Flutter</b>
   - [Fitness App](https://github.com/binodcoder/7cc002_fitness_app)
   - [Blog App](https://github.com/binodcoder/7cc012_coursework)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Laravel</b>
+  - [Manpower App API](https://github.com/binodcoder/7cc005_laravel_merokam_api)
 
 
 <h2> 🤳 Connect with me:</h2>
