@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Apna College)</b>
-  - [Praciting DS & Algos in Java](https://github.com/binodcoder/core_java)
+  - [Practicing DS & Algos in Java](https://github.com/binodcoder/core_java)
 - <b>Full Stack Web App (Thymeleaf, Spring Boot, MySQL)</b>
   - [Job Portal Application](https://github.com/binodcoder/7cs106_merokaam_web) 
   - [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api) 
