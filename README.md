@@ -11,9 +11,23 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  <td>
+
+ <table>
+   <tr>
+   <td>
+      ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/binodcoder/binodcoder/output/github-contribution-grid-snake.svg)
+   </td>
+
+    
+
+       <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" />
     </td>
+
+   </tr>
+   
+ </table>
+
 
 ## 📊 GitHub Stats  
 
