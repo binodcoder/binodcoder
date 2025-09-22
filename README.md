@@ -46,45 +46,24 @@
 
 ## 👨‍💻 Software Development Projects  
 
-<table>
-  <tr>
-    <td align="center"><b>📚 Data Structures & Algorithms</b></td>
-    <td>
-      <a href="https://github.com/binodcoder/core_java">Practicing DS & Algos in Java</a>
-    </td>
-  </tr>
+### 📚 Data Structures & Algorithms  
+- 🔗 [Practicing DS & Algos in Java](https://github.com/binodcoder/core_java)
 
-  <tr>
-    <td align="center"><b>🌐 Full Stack Web App</b><br><sub>(Spring Boot, Thymeleaf, MySQL)</sub></td>
-    <td>
-      🔗 <a href="https://github.com/binodcoder/7cs106_merokaam_web">Job Portal Web App</a><br>
-      🔗 <a href="https://github.com/binodcoder/7cs106_merokaam_api">Job Portal API</a>
-    </td>
-  </tr>
+### 🌐 Full Stack Web App *(Spring Boot · Thymeleaf · MySQL)*  
+- 🔗 [Job Portal Web App](https://github.com/binodcoder/7cs106_merokaam_web)  
+- 🔗 [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api)
 
-  <tr>
-    <td align="center"><b>⚛️ React Projects</b></td>
-    <td>
-      📝 <a href="https://github.com/binodcoder/keeper-app">Note Keeper App</a><br>
-      🏢 <a href="https://github.com/binodcoder/7CC005_react_merokam">Manpower App</a>
-    </td>
-  </tr>
+### ⚛️ React Projects  
+- 📝 [Note Keeper App](https://github.com/binodcoder/keeper-app)  
+- 🏢 [Manpower App](https://github.com/binodcoder/7CC005_react_merokam)
 
-  <tr>
-    <td align="center"><b>📱 Flutter Projects</b></td>
-    <td>
-      🏋️ <a href="https://github.com/binodcoder/7cc002_fitness_app">Fitness App</a><br>
-      ✍️ <a href="https://github.com/binodcoder/7cc012_coursework">Blog App</a>
-    </td>
-  </tr>
+### 📱 Flutter Projects  
+- 🏋️ [Fitness App](https://github.com/binodcoder/7cc002_fitness_app)  
+- ✍️ [Blog App](https://github.com/binodcoder/7cc012_coursework)
 
-  <tr>
-    <td align="center"><b>🎯 Laravel</b></td>
-    <td>
-      🌐 <a href="https://github.com/binodcoder/7cc005_laravel_merokam_api">Manpower API</a>
-    </td>
-  </tr>
-</table>
+### 🎯 Laravel  
+- 🌐 [Manpower API](https://github.com/binodcoder/7cc005_laravel_merokam_api)
+
 
 ### ✅ Current Goals
 - [x] Publish **MeroKaam** on Play Store
