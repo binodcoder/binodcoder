@@ -65,11 +65,7 @@
 - 🌐 [Manpower API](https://github.com/binodcoder/7cc005_laravel_merokam_api)
 
 
-### ✅ Current Goals
-- [x] Publish **MeroKaam** on Play Store
-- [x] Build responsive UI with Flutter
-- [ ] Learn Docker
-- [ ] Implement CI/CD pipeline
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
