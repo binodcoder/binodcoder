@@ -17,17 +17,7 @@
   - [Manpower App API](https://github.com/binodcoder/7cc005_laravel_merokam_api)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://x.com/DeveloperBinodJ
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/binod.bhandari.75685962/
-[linkedin]: https://www.linkedin.com/in/binodcoder/
 
 
 ### 🛠️ Tech Stack
@@ -58,6 +48,18 @@
 | MeroKaam Job Portal | Flutter, Spring Boot | [🔗 GitHub](https://github.com/binodcoder/merokaam) |
 | Fitness App | Flutter, Firebase | [🔗 GitHub](https://github.com/binodcoder/fitness-app) |
 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://x.com/DeveloperBinodJ
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/binod.bhandari.75685962/
+[linkedin]: https://www.linkedin.com/in/binodcoder/
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
