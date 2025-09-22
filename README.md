@@ -12,21 +12,17 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
- <table>
-   <tr>
-   <td>
-      ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/binodcoder/binodcoder/output/github-contribution-grid-snake.svg)
-   </td>
-
-    
-
-       <td>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/binodcoder/binodcoder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" />
     </td>
+  </tr>
+</table>
 
-   </tr>
-   
- </table>
 
 
 ## 📊 GitHub Stats  
