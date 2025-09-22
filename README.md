@@ -13,8 +13,25 @@
 
 
 
+## 📊 GitHub Stats  
 
-![Binod's GitHub stats](https://github-readme-stats.vercel.app/api?username=binodcoder&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=binodcoder&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
