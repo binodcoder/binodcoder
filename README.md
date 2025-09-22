@@ -13,9 +13,11 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/binodcoder/binodcoder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=binodcoder&show_icons=true&theme=radical" alt="GitHub Stats" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical" alt="GitHub Streak" height="150" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
+
 
 
 
