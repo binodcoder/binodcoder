@@ -12,12 +12,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binodcoder&show_icons=true&theme=radical" alt="GitHub Stats" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical" alt="GitHub Streak" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
+ 
 
 
 
