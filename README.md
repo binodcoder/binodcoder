@@ -29,6 +29,28 @@
 [instagram]: https://www.instagram.com/binod.bhandari.75685962/
 [linkedin]: https://www.linkedin.com/in/binodcoder/
 
+
+### 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+
+![Binod's GitHub stats](https://github-readme-stats.vercel.app/api?username=binodcoder&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical)
+
+[![Binod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binodcoder&theme=dracula)](https://github.com/binodcoder)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=binodcoder)
+
 <!--
 **binodcoder/binodcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
