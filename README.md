@@ -11,7 +11,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+  <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
 
 ## 📊 GitHub Stats  
 
@@ -25,9 +27,7 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=binodcoder&theme=radical" alt="GitHub Streak" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binodcoder&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
+  
   </tr>
 </table>
 
