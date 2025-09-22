@@ -47,6 +47,18 @@
 
 [![Binod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binodcoder&theme=dracula)](https://github.com/binodcoder)
 
+### ✅ Current Goals
+- [x] Publish **MeroKaam** on Play Store
+- [x] Build responsive UI with Flutter
+- [ ] Learn Docker
+- [ ] Implement CI/CD pipeline
+
+| Project | Tech Stack | Link |
+|--------|-------------|------|
+| MeroKaam Job Portal | Flutter, Spring Boot | [🔗 GitHub](https://github.com/binodcoder/merokaam) |
+| Fitness App | Flutter, Firebase | [🔗 GitHub](https://github.com/binodcoder/fitness-app) |
+
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=binodcoder)
