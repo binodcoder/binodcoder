@@ -1,20 +1,47 @@
-<h1>Hi, I'm Binod! <br/><a href="https://github.com/binodcoder">Graduate Software Developer</a>, <a href="https://www.linkedin.com/in/binodcoder/">Computer Science Professional</a></h1>
+<h1>Hi, I'm Binod! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br/><a href="https://github.com/binodcoder">Graduate Software Developer</a>, <a href="https://www.linkedin.com/in/binodcoder/">Computer Science Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects  
 
-- <b>Data Structures and Algorithms Practice (Apna College)</b>
-  - [Practicing DS & Algos in Java](https://github.com/binodcoder/core_java)
-- <b>Full Stack Web App (Thymeleaf, Spring Boot, MySQL)</b>
-  - [Job Portal Application](https://github.com/binodcoder/7cs106_merokaam_web) 
-  - [Job Portal API](https://github.com/binodcoder/7cs106_merokaam_api) 
-- <b>React</b>
-  - [Note Keeper App](https://github.com/binodcoder/keeper-app)
-  - [Manpower App](https://github.com/binodcoder/7CC005_react_merokam)
-- <b>Flutter</b>
-  - [Fitness App](https://github.com/binodcoder/7cc002_fitness_app)
-  - [Blog App](https://github.com/binodcoder/7cc012_coursework)
-- <b>Laravel</b>
-  - [Manpower App API](https://github.com/binodcoder/7cc005_laravel_merokam_api)
+<table>
+  <tr>
+    <td align="center"><b>📚 Data Structures & Algorithms</b></td>
+    <td>
+      <a href="https://github.com/binodcoder/core_java">Practicing DS & Algos in Java</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🌐 Full Stack Web App</b><br><sub>(Spring Boot, Thymeleaf, MySQL)</sub></td>
+    <td>
+      🔗 <a href="https://github.com/binodcoder/7cs106_merokaam_web">Job Portal Web App</a><br>
+      🔗 <a href="https://github.com/binodcoder/7cs106_merokaam_api">Job Portal API</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>⚛️ React Projects</b></td>
+    <td>
+      📝 <a href="https://github.com/binodcoder/keeper-app">Note Keeper App</a><br>
+      🏢 <a href="https://github.com/binodcoder/7CC005_react_merokam">Manpower App</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>📱 Flutter Projects</b></td>
+    <td>
+      🏋️ <a href="https://github.com/binodcoder/7cc002_fitness_app">Fitness App</a><br>
+      ✍️ <a href="https://github.com/binodcoder/7cc012_coursework">Blog App</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🎯 Laravel</b></td>
+    <td>
+      🌐 <a href="https://github.com/binodcoder/7cc005_laravel_merokam_api">Manpower API</a>
+    </td>
+  </tr>
+</table>
+
 
 
 
@@ -61,7 +88,7 @@
 [instagram]: https://www.instagram.com/binod.bhandari.75685962/
 [linkedin]: https://www.linkedin.com/in/binodcoder/
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=binodcoder)
 
