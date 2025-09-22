@@ -22,6 +22,11 @@
 
 [![Binod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binodcoder&theme=dracula)](https://github.com/binodcoder)
 
+## 📊 Contribution Graph  
+
+[![Binod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binodcoder&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/binodcoder)
+
+
 
 
 ## 👨‍💻 Software Development Projects  
